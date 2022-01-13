@@ -41,7 +41,6 @@ If you have an urgent/important issue you would like to see addressed during the
 
 {{< /hint >}}
 
-## Exercises
 
 
 <!--

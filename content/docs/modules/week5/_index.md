@@ -24,17 +24,6 @@ draft: false
 ## Live stream 6
 - Q&A/walk-through of this week’s tutorial - TBA!
 
-## Exercises
-
-This exercise allows you to practice `make` commands on a real pipeline!
-
-- Check out the tutorial ["Practicing pipeline automation using make"](https://tilburgsciencehub.com/makefile/pipeline-automation) at Tilburg Science Hub.
-
-{{< hint info >}}
-
-The tutorial involves a blend of R __and__ Python code. You may be unfamiliar with Python - but that's not a bad thing. The purpose is __not__ to turn you into a Python wizard, but rather to __illustrate the value of `make`__ in a data pipeline. The fact that you can run both R and Python scripts makes it very powerful!
-{{< /hint >}}
-
 
 
 <!--

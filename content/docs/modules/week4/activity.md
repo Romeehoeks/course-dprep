@@ -5,6 +5,7 @@ draft: false
 
 # Live Stream Activity
 
+
 ## Overview
 
 - Type: Breakout activity with 4-6 students<!--, *or* guided "look over the shoulders of Hannes" session-->
